@@ -9,6 +9,8 @@ O For Her é um site que tem como objetivo promover a igualdade de gênero e o e
 
 O objetivo deste projeto é desenvolver um site interativo e informativo que aborde uma variedade de questões relacionadas à igualdade de gênero, ao empoderamento das mulheres e a diversos temas correlatos. Além de promover a igualdade e o empoderamento, pretendemos fornecer informações sobre saúde reprodutiva, direitos das mulheres, violência de gênero, equidade no local de trabalho, liderança feminina, entre outros.
 
+## Requisitos do Projeto
+
 ### Requisitos Funcionais:
 1. **Página Inicial**: Implementar uma página inicial com uma visão geral do propósito do site.
 2. **Recursos Educacionais**: Criar uma seção com recursos educacionais, como artigos e vídeos, relacionados à igualdade de gênero.
@@ -20,6 +22,10 @@ O objetivo deste projeto é desenvolver um site interativo e informativo que abo
 2. **Acessibilidade**: Seguir boas práticas de acessibilidade para garantir que o site seja acessível para todos os usuários.
 3. **Desempenho**: Garantir que o site seja rápido e responsivo, com tempos de carregamento rápidos.
 4. **Manutenibilidade**: Escrever código limpo e bem documentado para facilitar a manutenção do site no futuro.
+
+## Diagrama de caso de uso
+![image](https://github.com/analuizads/ForHer/assets/102332605/b4ce8623-2954-4b50-b3ba-32ba1a871a86)
+
 
 ---
 
