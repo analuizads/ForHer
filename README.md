@@ -16,6 +16,7 @@ O objetivo deste projeto é desenvolver um site interativo e informativo que abo
 2. **Recursos Educacionais**: Criar uma seção com recursos educacionais, como artigos e vídeos, relacionados à igualdade de gênero.
 3. **Navegação Intuitiva**: Garantir que a navegação pelo site seja intuitiva e que os usuários possam encontrar facilmente o conteúdo desejado.
 4. **Pesquisa Interna**: Incluir uma barra de pesquisa para que os usuários possam pesquisar conteúdo específico dentro do site.
+5. **Sistema de Comentários**: Permitir que os usuários deixem comentários em artigos ou outras seções do site para promover a interação e o engajamento.
 
 ### Requisitos Não Funcionais:
 1. **Responsividade**: Garantir que o site seja responsivo e funcione bem em dispositivos móveis e desktops.
