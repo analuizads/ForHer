@@ -1,5 +1,4 @@
 import { PageLayout, Text, List, Image, LinkTo, Seperator, Slider } from "../../src/components";
-import CodeBlock from "../../src/components/CodeBlock";
 
 const MulheresNaCiencia = () => {
     return (

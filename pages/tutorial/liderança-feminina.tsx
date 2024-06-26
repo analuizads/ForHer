@@ -1,5 +1,4 @@
 import { PageLayout, Text, List, LinkTo, Seperator } from "../../src/components";
-import CodeBlock from "../../src/components/CodeBlock";
 
 const LiderancaFeminina = () => {
     return (
